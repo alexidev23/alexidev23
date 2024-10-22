@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 💻 Front End developer<br>QA Manual
-
+![](https://drive.google.com/file/d/1nLamPsUC5RKFq-v5CsIaDy91iFnEam7B/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn]([Alexis Escobar](https://www.linkedin.com/in/alexis-escobar-95b491184/))]
