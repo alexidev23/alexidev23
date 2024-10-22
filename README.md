@@ -1,9 +1,9 @@
 # Hola, soy Alexis Escobar ✋
 
+![Banner](./assets/AlexisEscobar.png)
+
 # 💫 About Me:
 💻 Front End developer<br>QA Manual
-
-![Banner](./assets/AlexisEscobar.png)
 
 ## 🌐 Socials:
 [![LinkedIn]([Alexis Escobar](https://www.linkedin.com/in/alexis-escobar-95b491184/))]
