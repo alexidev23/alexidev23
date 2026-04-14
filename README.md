@@ -1,5 +1,3 @@
-# Hola, soy Alexis Escobar ✋
-
 ![Banner](./assets/banner.png)
 
 # 💫 About Me:
