@@ -1,6 +1,6 @@
 # Hola, soy Alexis Escobar ✋
 
-![Banner](./assets/AlexisEscobar.png)
+![Banner](./assets/banner.png)
 
 # 💫 About Me:
 💻 Front End developer<br>QA Manual
